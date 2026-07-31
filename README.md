@@ -5,7 +5,7 @@
 
 <!-- Typing Effect -->
 <a href="https://github.com/Shreyas-Kumbhar">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Enthusiast;Crafting+Scalable+Systems;Building+RESTful+APIs;Always+Learning...&amp;font=Fira+Code&amp;center=true&amp;width=440&amp;height=45&amp;color=36BCF7&amp;vCenter=true&amp;size=22" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Enthusiast;Crafting+Scalable+Systems;Building+RESTful+APIs;Always+Learning...&amp;font=Fira+Code&amp;center=true&amp;width=440&amp;height=45&amp;color=36BCF7&amp;vCenter=true&amp;size=22" alt="Typing SVG">
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/shreyas-kumbhar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/shreyas-kumbhar/" target="_blank">
+  <a href="https://leetcode.com/u/ShreyasKumbhar09/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://github.com/shreyas-kumbhar" target="_blank">
@@ -78,13 +78,13 @@
       <img src="https://github-readme-stats.vercel.app/api?username=shreyas-kumbhar&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" width="100%"/>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-kumbhar&amp;theme=radical&amp;hide_border=true" alt="GitHub Streak" width="100%"/>
+      <img src="https://streak-stats.demolab.com/?user=shreyas-kumbhar&amp;theme=radical&amp;hide_border=true" alt="GitHub Streak" width="100%"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top" align="center">
       <br/>
-      <img src="https://leetcard.jacoblin.cool/shreyas-kumbhar?theme=dark&amp;font=Inter&amp;ext=activity" alt="LeetCode Stats" />
+      <img src="https://leetcard.jacoblin.cool/ShreyasKumbhar09?theme=dark&amp;font=Inter&amp;ext=activity" alt="LeetCode Stats" />
     </td>
   </tr>
 </table>

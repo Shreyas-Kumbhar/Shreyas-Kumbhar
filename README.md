@@ -141,25 +141,46 @@ Beyond framework-level development, I heavily focus on fundamental computer scie
 
 <br>
 
-## Developer Terminal
+## Developer Profile
 
 ```java
-public class ProfileBuilder {
+DeveloperProfile shreyas = DeveloperProfile.builder()
+    .name("Shreyas Kumbhar")
+    .role("Java Backend Engineer")
+    .location("India")
+    .status("Open to Work")
 
-    public static void main(String[] args) {
-        Developer shreyas = Developer.builder()
-            .name("Shreyas Rajesh Kumbhar")
-            .role("Java Backend Engineer")
-            .status("Actively Seeking Full-Time Opportunities")
-            .skills(Set.of("Java", "Spring Boot", "REST APIs", "MySQL", "Hibernate", "JWT"))
-            .currentlyLearning(Set.of("Microservices", "System Design", "Cloud Computing"))
-            .lookingFor(List.of("Software Engineer Roles", "Backend Internships"))
-            .currentProjects(List.of("Hospital Management System", "Student Management API"))
-            .build();
-            
-        shreyas.deploy();
-    }
-}
+    .techStack(List.of(
+        "Java",
+        "Spring Boot",
+        "Spring Security",
+        "Hibernate",
+        "JPA",
+        "REST APIs",
+        "MySQL",
+        "Git"
+    ))
+
+    .currentlyLearning(List.of(
+        "Microservices",
+        "System Design",
+        "Docker",
+        "Cloud Fundamentals"
+    ))
+
+    .currentFocus(List.of(
+        "Scalable REST APIs",
+        "JWT Authentication",
+        "Backend Architecture"
+    ))
+
+    .lookingFor(List.of(
+        "Backend Engineering",
+        "Software Development",
+        "Open Source Collaboration"
+    ))
+
+    .build();
 ```
 
 <br>

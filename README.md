@@ -1,82 +1,95 @@
-<div align="center">
-  <h1 align="center">Hi there, I'm Shreyas! 👋</h1>
-  <h3 align="center">🚀 Java & Spring Boot Developer | Backend Enthusiast</h3>
-  
-  <p align="center">
-    <a href="https://readme-typing-svg.herokuapp.com/">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Scalable+Backend+Systems;Spring+Boot+%26+Microservices;Always+Learning+and+Building...&center=true&width=450&height=45&color=0e75b6&vCenter=true&size=20" alt="Typing SVG">
-    </a>
-  </p>
+<!-- Header Image -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Shreyas%20Kumbhar&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Java%20%26%20Spring%20Boot%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
-  <p align="center">
-    <a href="https://shreyas-kumbhar.github.io/Personal-Portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/shreyas-kumbhar" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://leetcode.com/u/shreyas-kumbhar/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-    <a href="https://github.com/shreyas-kumbhar" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+<div align="center">
+
+<!-- Typing Effect -->
+<a href="https://github.com/Shreyas-Kumbhar">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Enthusiast;Crafting+Scalable+Systems;Building+RESTful+APIs;Always+Learning...&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22" alt="Typing SVG">
+</a>
+
+<br/>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://shreyas-kumbhar.github.io/Personal-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/shreyas-kumbhar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/shreyas-kumbhar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/shreyas-kumbhar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- Two Column Layout for About & Languages -->
+<table width="100%" align="center">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>👨‍💻 About Me</h2>
+      <p>I am a Computer Science student with a strong passion for building robust and scalable backend architectures. I specialize in Java and Spring Boot, focusing on developing efficient microservices and RESTful APIs.</p>
+      <ul>
+        <li>🔭 Currently developing <b>RESTful APIs</b> using <b>Spring Boot & Security</b>.</li>
+        <li>🌱 Deepening knowledge in <b>System Design & Cloud Technologies</b>.</li>
+        <li>🧠 Strong analytical skills backed by solid <b>Data Structures & Algorithms</b>.</li>
+        <li>💼 Actively seeking full-time roles and internships in Backend Development.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <h2>🔥 Top Languages</h2>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-kumbhar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-I am a Computer Science student with a strong passion for building robust and scalable backend architectures. I specialize in Java and Spring Boot, focusing on developing efficient microservices and RESTful APIs.
+<br/>
 
-- 🔭 Currently developing **RESTful APIs** using **Spring Boot** and **Spring Security**.
-- 🌱 Deepening my knowledge in **System Design, Microservices, and Cloud Technologies**.
-- 🧠 Strong analytical skills backed by solid understanding of **Data Structures & Algorithms**.
-- 💼 **Actively seeking** full-time roles and internships in Backend Development.
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  
-  ### Languages
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-
-  ### Frameworks & Libraries
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <br/>
+  <!-- Skill Icons (Beautiful rounded icons) -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,git,idea,postman&perline=8" alt="Tech Stack" />
+  </a>
+  <br/><br/>
+  <!-- Additional specific badges -->
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" alt="Spring Security"/>
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate"/>
-
-  ### Tools & Platforms
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5"/>
   <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=Apache-Maven&logoColor=white" alt="Maven"/>
-
 </div>
 
----
-
-## 📊 Analytics & Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyas-kumbhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-kumbhar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 <br/>
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-kumbhar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img width="49%" src="https://leetcard.jacoblin.cool/shreyas-kumbhar?theme=tokyonight&font=Inter&ext=activity" alt="LeetCode Stats" />
-</div>
 
----
+## 📈 Performance & GitHub Stats
+
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=shreyas-kumbhar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-kumbhar&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <br/>
+      <img src="https://leetcard.jacoblin.cool/shreyas-kumbhar?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ## 💻 Developer Terminal
 
@@ -101,10 +114,10 @@ public class ShreyasProfile {
 }
 ```
 
----
+<br/>
 
 <div align="center">
   <i>"Code is not just instructions for machines — it's a craft, and I'm here to master it."</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=shreyas-kumbhar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shreyas-kumbhar&label=Profile%20views&color=8A2BE2&style=flat-square" alt="profile views" />
 </div>

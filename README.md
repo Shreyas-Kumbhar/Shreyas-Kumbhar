@@ -221,7 +221,6 @@ DeveloperProfile shreyas = DeveloperProfile.builder()
     <img src="https://img.shields.io/badge/LeetCode-0f172a?style=flat-square&amp;logo=leetcode&amp;logoColor=8b5cf6" alt="LeetCode" />
   </a>
   <a href="mailto:kumbharshreyas07@gmail.com">
-  <a href="mailto:kumbharshreyas07@gmail.com">
     <img src="https://img.shields.io/badge/kumbharshreyas07@gmail.com-0f172a?style=flat-square&amp;logo=gmail&amp;logoColor=8b5cf6" alt="Email" />
   </a>
 </div>

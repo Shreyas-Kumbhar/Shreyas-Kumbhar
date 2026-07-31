@@ -1,12 +1,12 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,7c3aed,0f172a&height=250&section=header&text=Shreyas%20Kumbhar&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20Enthusiast%20%7C%20Open%20to%20Work&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0f172a,7c3aed,0f172a&amp;height=250&amp;section=header&amp;text=Shreyas%20Kumbhar&amp;fontSize=70&amp;fontAlignY=35&amp;animation=fadeIn&amp;fontColor=ffffff&amp;desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20Enthusiast%20%7C%20Open%20to%20Work&amp;descAlignY=55&amp;descAlign=50" width="100%" alt="Header" />
 
   <br>
 
   <!-- Typing Animation -->
   <a href="https://github.com/Shreyas-Kumbhar">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Engineer;Building+Secure+Backend+Systems;Problem+Solver;Open+to+Backend+Opportunities&font=Inter&center=true&width=600&height=50&color=8B5CF6&vCenter=true&size=22" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Engineer;Building+Secure+Backend+Systems;Problem+Solver;Open+to+Backend+Opportunities&amp;font=Inter&amp;center=true&amp;width=600&amp;height=50&amp;color=8B5CF6&amp;vCenter=true&amp;size=22" alt="Typing SVG">
   </a>
 </div>
 
@@ -23,16 +23,16 @@ Beyond framework-level development, I heavily focus on fundamental computer scie
 ## Quick Highlights
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Computer_Science_Student-0f172a?style=flat-square&logoColor=8b5cf6" alt="CS Student" />
-  <img src="https://img.shields.io/badge/Java_Developer-0f172a?style=flat-square&logo=openjdk&logoColor=8b5cf6" alt="Java Developer" />
-  <img src="https://img.shields.io/badge/Spring_Boot-0f172a?style=flat-square&logo=springboot&logoColor=8b5cf6" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square&logoColor=8b5cf6" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Security-0f172a?style=flat-square&logo=springsecurity&logoColor=8b5cf6" alt="Security" />
-  <img src="https://img.shields.io/badge/Hibernate-0f172a?style=flat-square&logo=hibernate&logoColor=8b5cf6" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/DSA_Enthusiast-0f172a?style=flat-square&logoColor=8b5cf6" alt="DSA" />
-  <img src="https://img.shields.io/badge/System_Design-0f172a?style=flat-square&logoColor=8b5cf6" alt="System Design" />
-  <img src="https://img.shields.io/badge/India-0f172a?style=flat-square&logoColor=8b5cf6" alt="India" />
-  <img src="https://img.shields.io/badge/Open_to_Work-7c3aed?style=flat-square&logoColor=ffffff" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Computer_Science_Student-0f172a?style=flat-square&amp;logoColor=8b5cf6" alt="CS Student" />
+  <img src="https://img.shields.io/badge/Java_Developer-0f172a?style=flat-square&amp;logo=openjdk&amp;logoColor=8b5cf6" alt="Java Developer" />
+  <img src="https://img.shields.io/badge/Spring_Boot-0f172a?style=flat-square&amp;logo=springboot&amp;logoColor=8b5cf6" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square&amp;logoColor=8b5cf6" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Security-0f172a?style=flat-square&amp;logo=springsecurity&amp;logoColor=8b5cf6" alt="Security" />
+  <img src="https://img.shields.io/badge/Hibernate-0f172a?style=flat-square&amp;logo=hibernate&amp;logoColor=8b5cf6" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/DSA_Enthusiast-0f172a?style=flat-square&amp;logoColor=8b5cf6" alt="DSA" />
+  <img src="https://img.shields.io/badge/System_Design-0f172a?style=flat-square&amp;logoColor=8b5cf6" alt="System Design" />
+  <img src="https://img.shields.io/badge/India-0f172a?style=flat-square&amp;logoColor=8b5cf6" alt="India" />
+  <img src="https://img.shields.io/badge/Open_to_Work-7c3aed?style=flat-square&amp;logoColor=ffffff" alt="Open to Work" />
 </div>
 
 <br>
@@ -41,28 +41,28 @@ Beyond framework-level development, I heavily focus on fundamental computer scie
 
 <div align="center">
   <h3>Programming Languages</h3>
-  <img src="https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=8b5cf6" alt="Java"/>
-  <img src="https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=8b5cf6" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=8b5cf6" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-0f172a?style=flat-square&logo=css3&logoColor=8b5cf6" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Java-0f172a?style=flat-square&amp;logo=openjdk&amp;logoColor=8b5cf6" alt="Java"/>
+  <img src="https://img.shields.io/badge/MySQL-0f172a?style=flat-square&amp;logo=mysql&amp;logoColor=8b5cf6" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/HTML5-0f172a?style=flat-square&amp;logo=html5&amp;logoColor=8b5cf6" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-0f172a?style=flat-square&amp;logo=css3&amp;logoColor=8b5cf6" alt="CSS3"/>
   <br>
   
   <h3>Backend & Frameworks</h3>
-  <img src="https://img.shields.io/badge/Spring_Boot-0f172a?style=flat-square&logo=springboot&logoColor=8b5cf6" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Spring_Security-0f172a?style=flat-square&logo=springsecurity&logoColor=8b5cf6" alt="Spring Security"/>
-  <img src="https://img.shields.io/badge/Hibernate-0f172a?style=flat-square&logo=hibernate&logoColor=8b5cf6" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square&logo=json&logoColor=8b5cf6" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/JWT_Auth-0f172a?style=flat-square&logo=jsonwebtokens&logoColor=8b5cf6" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-0f172a?style=flat-square&amp;logo=springboot&amp;logoColor=8b5cf6" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_Security-0f172a?style=flat-square&amp;logo=springsecurity&amp;logoColor=8b5cf6" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Hibernate-0f172a?style=flat-square&amp;logo=hibernate&amp;logoColor=8b5cf6" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square&amp;logo=json&amp;logoColor=8b5cf6" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-0f172a?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=8b5cf6" alt="JWT"/>
   <br>
 
   <h3>Databases & Tools</h3>
-  <img src="https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=8b5cf6" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=8b5cf6" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-0f172a?style=flat-square&logo=intellijidea&logoColor=8b5cf6" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/Postman-0f172a?style=flat-square&logo=postman&logoColor=8b5cf6" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Apache_Maven-0f172a?style=flat-square&logo=apachemaven&logoColor=8b5cf6" alt="Maven"/>
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=8b5cf6" alt="Docker"/>
-  <img src="https://img.shields.io/badge/VS_Code-0f172a?style=flat-square&logo=visualstudiocode&logoColor=8b5cf6" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-0f172a?style=flat-square&amp;logo=git&amp;logoColor=8b5cf6" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&amp;logo=github&amp;logoColor=8b5cf6" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-0f172a?style=flat-square&amp;logo=intellijidea&amp;logoColor=8b5cf6" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Postman-0f172a?style=flat-square&amp;logo=postman&amp;logoColor=8b5cf6" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Apache_Maven-0f172a?style=flat-square&amp;logo=apachemaven&amp;logoColor=8b5cf6" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&amp;logo=docker&amp;logoColor=8b5cf6" alt="Docker"/>
+  <img src="https://img.shields.io/badge/VS_Code-0f172a?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=8b5cf6" alt="VS Code"/>
 </div>
 
 <br>
@@ -105,17 +105,17 @@ Beyond framework-level development, I heavily focus on fundamental computer scie
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyas-kumbhar&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shreyas-kumbhar&amp;theme=tokyonight&amp;row=1&amp;column=7&amp;no-frame=true&amp;no-bg=true" alt="Trophies" />
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyas-kumbhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=shreyas-kumbhar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyas-kumbhar&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=shreyas-kumbhar&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" width="49%"/>
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-kumbhar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-kumbhar&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-kumbhar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-kumbhar&amp;theme=tokyo-night&amp;hide_border=true" alt="Activity Graph" width="49%"/>
 
 </div>
 
@@ -126,7 +126,7 @@ Beyond framework-level development, I heavily focus on fundamental computer scie
 <div align="center">
   <h3>Continuous Problem Solving</h3>
   <a href="https://leetcode.com/u/ShreyasKumbhar09/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/ShreyasKumbhar09?theme=tokyonight&font=Inter&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/ShreyasKumbhar09?theme=tokyonight&amp;font=Inter&amp;ext=activity" alt="LeetCode Stats" />
   </a>
 </div>
 
@@ -175,10 +175,10 @@ public class ProfileBuilder {
 ## Profile Metrics
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyas-kumbhar&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Views" />
-  <img src="https://img.shields.io/github/followers/shreyas-kumbhar?label=Followers&style=flat-square&color=0f172a&logoColor=8b5cf6" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/shreyas-kumbhar?affiliations=OWNER&label=Stars&style=flat-square&color=0f172a&logoColor=8b5cf6" alt="Stars" />
-  <img src="https://img.shields.io/github/repos/shreyas-kumbhar?label=Repositories&style=flat-square&color=0f172a&logoColor=8b5cf6" alt="Repos" />
+  <img src="https://komarev.com/ghpvc/?username=shreyas-kumbhar&amp;label=Profile%20Views&amp;color=8B5CF6&amp;style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/github/followers/shreyas-kumbhar?label=Followers&amp;style=flat-square&amp;color=0f172a&amp;logoColor=8b5cf6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/shreyas-kumbhar?affiliations=OWNER&amp;label=Stars&amp;style=flat-square&amp;color=0f172a&amp;logoColor=8b5cf6" alt="Stars" />
+  <img src="https://img.shields.io/github/repos/shreyas-kumbhar?label=Repositories&amp;style=flat-square&amp;color=0f172a&amp;logoColor=8b5cf6" alt="Repos" />
 </div>
 
 <br>
@@ -187,19 +187,19 @@ public class ProfileBuilder {
 
 <div align="center">
   <a href="https://shreyas-kumbhar.github.io/Personal-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=8b5cf6" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&amp;logo=vercel&amp;logoColor=8b5cf6" alt="Portfolio" />
   </a>
   <a href="https://github.com/Shreyas-Kumbhar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=8b5cf6" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&amp;logo=github&amp;logoColor=8b5cf6" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/placeholder" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=8b5cf6" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&amp;logo=linkedin&amp;logoColor=8b5cf6" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/ShreyasKumbhar09/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-0f172a?style=flat-square&logo=leetcode&logoColor=8b5cf6" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-0f172a?style=flat-square&amp;logo=leetcode&amp;logoColor=8b5cf6" alt="LeetCode" />
   </a>
   <a href="mailto:shreyas.kumbhar@example.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=8b5cf6" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&amp;logo=gmail&amp;logoColor=8b5cf6" alt="Email" />
   </a>
 </div>
 
@@ -213,5 +213,5 @@ public class ProfileBuilder {
 
 <!-- Footer Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,7c3aed,0f172a&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0f172a,7c3aed,0f172a&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%" alt="Footer" />
 </div>

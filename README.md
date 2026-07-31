@@ -149,6 +149,7 @@ DeveloperProfile shreyas = DeveloperProfile.builder()
     .role("Java Backend Engineer")
     .location("India")
     .status("Open to Work")
+    .email("kumbharshreyas07@gmail.com")
 
     .techStack(List.of(
         "Java",
@@ -219,7 +220,7 @@ DeveloperProfile shreyas = DeveloperProfile.builder()
   <a href="https://leetcode.com/u/ShreyasKumbhar09/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-0f172a?style=flat-square&amp;logo=leetcode&amp;logoColor=8b5cf6" alt="LeetCode" />
   </a>
-  <a href="mailto:shreyas.kumbhar@example.com">
+  <a href="mailto:kumbharshreyas07@gmail.com">
     <img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&amp;logo=gmail&amp;logoColor=8b5cf6" alt="Email" />
   </a>
 </div>

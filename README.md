@@ -12,7 +12,7 @@
 
 <br>
 
-## 👋 About Me
+## 👨‍💻 About Me
 
 I'm a passionate **Java Backend Developer** focused on building robust, scalable backend systems. My core expertise lies in crafting secure REST APIs and microservices using **Java, Spring Boot, Spring Security, Hibernate**, and **MySQL**.
 
@@ -20,14 +20,14 @@ Beyond framework-level development, I heavily focus on fundamental computer scie
 
 <br>
 
-## ⚡ Quick Highlights
+## ✨ Quick Highlights
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎓_Computer_Science_Student-0f172a?style=flat-square&logoColor=white" alt="CS Student" />
-  <img src="https://img.shields.io/badge/💻_Java_Backend_Developer-1e3a8a?style=flat-square&logoColor=white" alt="Java Developer" />
+  <img src="https://img.shields.io/badge/🎓_CS_Student-0f172a?style=flat-square&logoColor=white" alt="CS Student" />
+  <img src="https://img.shields.io/badge/💻_Java_Developer-1e3a8a?style=flat-square&logoColor=white" alt="Java Developer" />
   <img src="https://img.shields.io/badge/⚙️_Spring_Boot-4c1d95?style=flat-square&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/🔌_REST_APIs-1e3a8a?style=flat-square&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/🔒_Spring_Security-0f172a?style=flat-square&logoColor=white" alt="Security" />
+  <img src="https://img.shields.io/badge/🔒_Security-0f172a?style=flat-square&logoColor=white" alt="Security" />
   <img src="https://img.shields.io/badge/🗄️_Hibernate-4c1d95?style=flat-square&logoColor=white" alt="Hibernate" />
   <img src="https://img.shields.io/badge/🧠_DSA_Enthusiast-1e3a8a?style=flat-square&logoColor=white" alt="DSA" />
   <img src="https://img.shields.io/badge/🏗️_System_Design-0f172a?style=flat-square&logoColor=white" alt="System Design" />
@@ -39,49 +39,55 @@ Beyond framework-level development, I heavily focus on fundamental computer scie
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css" alt="Languages" />
-</a>
+<div align="center">
+  <h3>Programming Languages</h3>
+  <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/MySQL-1e3a8a?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/HTML5-4c1d95?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <br>
+  
+  <h3>Backend & Frameworks</h3>
+  <img src="https://img.shields.io/badge/Spring_Boot-4c1d95?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_Security-1e3a8a?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Hibernate-0f172a?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/REST_APIs-4c1d95?style=for-the-badge&logo=json&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-1e3a8a?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <br>
 
-### Backend & Frameworks
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" alt="Backend" />
-</a>
-<br><br>
-<img src="https://img.shields.io/badge/Spring_Boot-4c1d95?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/Spring_Security-1e3a8a?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
-<img src="https://img.shields.io/badge/REST_APIs-0f172a?style=for-the-badge&logo=json&logoColor=white" alt="REST"/>
-<img src="https://img.shields.io/badge/JWT_Auth-4c1d95?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-
-### Databases & Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,postman,maven,docker,vscode" alt="Tools" />
-</a>
+  <h3>Databases & Tools</h3>
+  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-1e3a8a?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Apache_Maven-4c1d95?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Docker-1e3a8a?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</div>
 
 <br>
 
-## ⭐ Featured Projects
+## 💻 Featured Projects
 
 ### 🏥 Hospital Management System
 > Comprehensive backend system for managing hospital resources, patients, and doctors.
 - **Tech Stack**: Java, Spring Boot, Spring Security, Hibernate, MySQL, REST API
-- **Link**: [View Repository (Placeholder)](#)
+- **Link**: [View Repository](https://github.com/Shreyas-Kumbhar/Hospital-Management-System.git)
 
 ### 🎓 Student Management System
 > Secure application for handling student data, grading, and administrative workflows.
 - **Tech Stack**: Java, Spring Boot, JPA, MySQL, JWT Authentication
-- **Link**: [View Repository (Placeholder)](#)
+- **Link**: [View Repository](https://github.com/Shreyas-Kumbhar/student-mngt.git)
 
 ### 🛡️ Insurance Policy Optimizer
 > Algorithmic system to recommend and optimize insurance policies for customers.
 - **Tech Stack**: Core Java, Data Structures, Algorithms
-- **Link**: [View Repository (Placeholder)](#)
+- **Link**: [View Repository](https://github.com/Shreyas-Kumbhar/InsurancePolicyOptimizer.git)
 
 ### 🌐 Personal Portfolio
 > My professional portfolio showcasing my backend projects and resume.
 - **Tech Stack**: HTML, CSS, GitHub Pages
-- **Link**: [View Repository (Portfolio)](#)
+- **Link**: [View Repository](https://shreyas-kumbhar.github.io/Personal-Portfolio/)
 
 <br>
 
@@ -115,7 +121,7 @@ Beyond framework-level development, I heavily focus on fundamental computer scie
 
 <br>
 
-## 🧩 LeetCode Profile
+## 🧑‍💻 LeetCode Profile
 
 <div align="center">
   <h3>Continuous Problem Solving</h3>
@@ -135,7 +141,7 @@ Beyond framework-level development, I heavily focus on fundamental computer scie
 
 <br>
 
-## 💻 Developer Terminal
+## ⌨️ Developer Terminal
 
 ```java
 public class ProfileBuilder {
@@ -177,7 +183,7 @@ public class ProfileBuilder {
 
 <br>
 
-## 📬 Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
   <a href="https://shreyas-kumbhar.github.io/Personal-Portfolio/" target="_blank">

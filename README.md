@@ -1,7 +1,8 @@
+<!-- Header Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=250&amp;section=header&amp;text=Shreyas%20Kumbhar&amp;fontSize=70&amp;fontAlignY=35&amp;animation=twinkling&amp;fontColor=ffffff&amp;desc=Java%20%26%20Spring%20Boot%20Developer&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
+
 <div align="center">
-  <h1>Shreyas Kumbhar</h1>
-  <h3>Java & Spring Boot Developer</h3>
-  
+
   <br/>
 
   <!-- Typing Effect -->
@@ -14,10 +15,7 @@
   <!-- Social Links -->
   <p align="center">
     <a href="https://shreyas-kumbhar.github.io/Personal-Portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&amp;logo=About.me&amp;logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/shreyas-kumbhar" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://leetcode.com/u/ShreyasKumbhar09/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode" />
@@ -62,11 +60,11 @@
   </a>
   <br/><br/>
   <!-- Additional specific badges -->
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=spring-boot&amp;logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&amp;logo=Spring-Security&amp;logoColor=white" alt="Spring Security"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&amp;logo=Hibernate&amp;logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&amp;logo=springsecurity&amp;logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&amp;logo=hibernate&amp;logoColor=white" alt="Hibernate"/>
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&amp;logo=junit5&amp;logoColor=white" alt="JUnit5"/>
-  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&amp;logo=Apache-Maven&amp;logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&amp;logo=apachemaven&amp;logoColor=white" alt="Maven"/>
 </div>
 
 <br/>

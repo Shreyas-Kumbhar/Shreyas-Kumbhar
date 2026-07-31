@@ -1,164 +1,173 @@
-<!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shreyas%20Kumbhar&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 
-  <a href="https://github.com/Shreyas-Kumbhar">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Developer;Spring+Boot+%26+Hibernate;Secure+REST+API+Design;DSA+%26+System+Design;Open+to+Opportunities&font=Inter&center=true&width=560&height=45&color=8B5CF6&vCenter=true&size=20" alt="Typing SVG">
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:4c1d95&height=200&section=header&text=Shreyas%20Kumbhar&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=Java%20Backend%20Engineer&descAlignY=58&descAlign=50&descSize=20&animation=fadeIn" width="100%" alt="header" />
 
-  <br>
+<br>
 
-  <a href="https://shreyas-kumbhar.github.io/Personal-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/placeholder">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/ShreyasKumbhar09/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="mailto:shreyas.kumbhar@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://shreyas-kumbhar.github.io/Personal-Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shreyas-Kumbhar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/placeholder)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ShreyasKumbhar09/)
+[![Email](https://img.shields.io/badge/Email-4c1d95?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyas.kumbhar@example.com)
+
 </div>
 
 <br>
 
-## About Me
+## About
 
-I'm a **Java Backend Developer** who builds secure, scalable systems using **Spring Boot, Spring Security, Hibernate, and MySQL**. I care about clean API design, sound data modeling, and writing code that holds up in production — not just in a demo.
+I build backend systems in **Java and Spring Boot** — REST APIs, authentication layers, and data models designed to hold up under real traffic and real edge cases, not just pass a demo.
 
-Alongside framework work, I invest time in **Data Structures & Algorithms** and **System Design**, because I think strong fundamentals are what let backend engineers make good architectural calls under real constraints. I'm currently expanding into **microservices and cloud deployment**, and actively looking for full-time Software Engineering roles where I can own backend systems end to end.
+My day-to-day centers on **Spring Security, Hibernate/JPA, and MySQL**, with a parallel focus on **Data Structures & Algorithms** and **System Design** — the fundamentals that inform every architecture decision above the framework level. I'm currently extending that into **microservices and cloud deployment**.
+
+**Currently open to full-time Software Engineering roles** focused on backend systems.
 
 <br>
 
 ## Tech Stack
 
-**Languages & Core**
+**Languages**
 <br>
-<img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/SQL-1e3a8a?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/HTML5-4c1d95?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://skillicons.dev/icons?i=java,mysql,html,css" height="45" alt="languages" />
 
 **Backend & Frameworks**
 <br>
-<img src="https://img.shields.io/badge/Spring_Boot-4c1d95?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/Spring_Security-1e3a8a?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
-<img src="https://img.shields.io/badge/Hibernate/JPA-0f172a?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-<img src="https://img.shields.io/badge/REST_APIs-4c1d95?style=for-the-badge&logo=json&logoColor=white" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/JWT_Auth-1e3a8a?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate" height="45" alt="backend" />
 
-**Tools & Platforms**
+**Security & Auth**
 <br>
-<img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Docker-1e3a8a?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-<img src="https://img.shields.io/badge/Maven-4c1d95?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-1e3a8a?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Tools & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,maven" height="45" alt="tools" />
+
+**Currently Learning**
+<br>
+![Microservices](https://img.shields.io/badge/Microservices-1e3a8a?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-1e3a8a?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud-1e3a8a?style=flat-square)
+![Advanced DSA](https://img.shields.io/badge/Advanced_DSA-1e3a8a?style=flat-square)
 
 <br>
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-### 🏥 Hospital Management System
-Backend system for managing hospital resources, patient records, and doctor workflows with role-based access.
+**🏥 Hospital Management System**
+Backend platform for managing hospital resources, patient records, and doctor workflows, with role-based access control.
+`Java` `Spring Boot` `Spring Security` `Hibernate` `MySQL`
+[Repository →](https://github.com/Shreyas-Kumbhar/Hospital-Management-System.git)
 
-**Stack:** Java · Spring Boot · Spring Security · Hibernate · MySQL
+---
 
-[View Repository →](https://github.com/Shreyas-Kumbhar/Hospital-Management-System.git)
+**🎓 Student Management System**
+Secure student records and grading platform with JWT-based authentication and stateless session handling.
+`Java` `Spring Boot` `JPA` `MySQL` `JWT`
+[Repository →](https://github.com/Shreyas-Kumbhar/student-mngt.git)
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🎓 Student Management System
-Secure application handling student records, grading, and administrative workflows with JWT-based auth.
+**🛡️ Insurance Policy Optimizer**
+Algorithmic engine that scores and recommends insurance policies based on customer profile inputs.
+`Core Java` `Data Structures` `Algorithms`
+[Repository →](https://github.com/Shreyas-Kumbhar/InsurancePolicyOptimizer.git)
 
-**Stack:** Java · Spring Boot · JPA · MySQL · JWT
+---
 
-[View Repository →](https://github.com/Shreyas-Kumbhar/student-mngt.git)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Insurance Policy Optimizer
-Algorithmic engine that recommends and optimizes insurance policies based on customer inputs.
-
-**Stack:** Core Java · Data Structures · Algorithms
-
-[View Repository →](https://github.com/Shreyas-Kumbhar/InsurancePolicyOptimizer.git)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Personal Portfolio
-Professional portfolio site showcasing backend projects, experience, and resume.
-
-**Stack:** HTML · CSS · GitHub Pages
-
-[View Site →](https://shreyas-kumbhar.github.io/Personal-Portfolio/)
-
-</td>
-</tr>
-</table>
+**🌐 Personal Portfolio**
+Static portfolio site showcasing projects, background, and resume.
+`HTML` `CSS` `GitHub Pages`
+[Live Site →](https://shreyas-kumbhar.github.io/Personal-Portfolio/)
 
 <br>
 
-## Currently Focused On
+## GitHub Overview
 
-- Designing scalable, secure REST APIs
-- JWT authentication & role-based access control with Spring Security
-- Microservices architecture and distributed systems fundamentals
-- Advanced System Design concepts
-- Advanced DSA problem-solving
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shreyas-kumbhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-kumbhar&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 
 <br>
 
-## GitHub Stats
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-kumbhar&theme=tokyo-night&hide_border=true" width="97%" alt="Activity Graph" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyas-kumbhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=shreyas-kumbhar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-kumbhar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyas-kumbhar&theme=tokyonight&row=1&column=4&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" width="49%"/>
 </div>
 
 <br>
 
-## LeetCode
+## Developer Snapshot
+
+```java
+public final class Engineer {
+
+    private final String name;
+    private final String role;
+    private final Set<String> coreStack;
+    private final Set<String> currentlyLearning;
+    private final Status status;
+
+    public enum Status {
+        OPEN_TO_FULL_TIME_ROLES
+    }
+
+    private Engineer(Builder builder) {
+        this.name = builder.name;
+        this.role = builder.role;
+        this.coreStack = Set.copyOf(builder.coreStack);
+        this.currentlyLearning = Set.copyOf(builder.currentlyLearning);
+        this.status = builder.status;
+    }
+
+    public static Builder builder() {
+        return new Builder();
+    }
+
+    public static final class Builder {
+        private String name;
+        private String role;
+        private Set<String> coreStack = new HashSet<>();
+        private Set<String> currentlyLearning = new HashSet<>();
+        private Status status;
+
+        public Builder name(String name) { this.name = name; return this; }
+        public Builder role(String role) { this.role = role; return this; }
+        public Builder coreStack(Set<String> stack) { this.coreStack = stack; return this; }
+        public Builder currentlyLearning(Set<String> stack) { this.currentlyLearning = stack; return this; }
+        public Builder status(Status status) { this.status = status; return this; }
+        public Engineer build() { return new Engineer(this); }
+    }
+}
+
+Engineer shreyas = Engineer.builder()
+    .name("Shreyas Kumbhar")
+    .role("Java Backend Engineer")
+    .coreStack(Set.of("Java", "Spring Boot", "Spring Security", "Hibernate", "MySQL"))
+    .currentlyLearning(Set.of("Microservices", "System Design", "Cloud"))
+    .status(Engineer.Status.OPEN_TO_FULL_TIME_ROLES)
+    .build();
+```
+
+<br>
+
+## Profile Metrics
 
 <div align="center">
-  <a href="https://leetcode.com/u/ShreyasKumbhar09/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/ShreyasKumbhar09?theme=tokyonight&font=Inter&ext=activity" alt="LeetCode Stats" />
-  </a>
+
+![Views](https://komarev.com/ghpvc/?username=shreyas-kumbhar&label=Profile+Views&color=4c1d95&style=flat-square)
+![Followers](https://img.shields.io/github/followers/shreyas-kumbhar?label=Followers&style=flat-square&color=1e3a8a)
+![Stars](https://img.shields.io/github/stars/shreyas-kumbhar?affiliations=OWNER&label=Stars&style=flat-square&color=0f172a)
+![Repos](https://img.shields.io/github/repos/shreyas-kumbhar?label=Repositories&style=flat-square&color=4c1d95)
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyas-kumbhar&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Views" />
-  <img src="https://img.shields.io/github/followers/shreyas-kumbhar?label=Followers&style=flat-square&color=4c1d95" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/shreyas-kumbhar?affiliations=OWNER&label=Stars&style=flat-square&color=1e3a8a" alt="Stars" />
-</div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:0f172a&height=100&section=footer" width="100%" alt="footer" />
 
-<div align="center">
-  <i>"Simplicity is the soul of efficiency." — Austin Freeman</i>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer" />
 </div>

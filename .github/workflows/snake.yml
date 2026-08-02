@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Metrics
 
 on:
   schedule:
@@ -34,7 +34,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push Snake to Output Branch
+      - name: Fetch GitHub Streak Stats
+        run: |
+          curl -s "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" -o dist/github-streak-stats.svg
+
+      - name: Push Metrics to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

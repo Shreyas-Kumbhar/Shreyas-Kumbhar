@@ -110,7 +110,7 @@ Beyond framework-level development, I heavily focus on fundamental computer scie
   <br><br>
 
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=shreyas-kumbhar&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" width="49%"/> -->
-  <img src="https://raw.githubusercontent.com/Shreyas-Kumbhar/Shreyas-Kumbhar/output/github-streak-stats.svg" alt="GitHub Streak" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=shreyas-kumbhar&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" alt="GitHub Streak" width="49%"/>
   
   <br><br>
   

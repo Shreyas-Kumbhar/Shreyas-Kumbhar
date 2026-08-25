@@ -168,14 +168,14 @@ Beyond framework-level development, I heavily focus on fundamental computer scie
     <img src="https://img.shields.io/badge/LeetCode-0f172a?style=flat-square&amp;logo=leetcode&amp;logoColor=8b5cf6" alt="LeetCode" />
   </a>
   <a href="mailto:kumbharshreyas07@gmail.com">
-    <img src="https://img.shields.io/badge/kumbharshreyas07@gmail.com-0f172a?style=flat-square&amp;logo=gmail&amp;logoColor=8b5cf6" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&amp;logo=gmail&amp;logoColor=8b5cf6" alt="Email" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <b>📫 Drop a message:</b> <a href="mailto:kumbharshreyas07@gmail.com">kumbharshreyas07@gmail.com</a>
+  <b>📫 Drop a message:</b> <a href="mailto:kumbharshreyas07@gmail.com">Contact Me</a>
   <br><br>
   <i>"Simplicity is the soul of efficiency." — Austin Freeman</i>
 </div>

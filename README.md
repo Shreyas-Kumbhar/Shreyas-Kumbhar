@@ -155,29 +155,23 @@ Beyond framework-level development, I heavily focus on fundamental computer scie
 ## Connect With Me
 
 <div align="center">
-  <a href="https://shreyas-kumbhar.github.io/Personal-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&amp;logo=vercel&amp;logoColor=8b5cf6" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Shreyas-Kumbhar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&amp;logo=github&amp;logoColor=8b5cf6" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/placeholder" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&amp;logo=linkedin&amp;logoColor=8b5cf6" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/ShreyasKumbhar09/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-0f172a?style=flat-square&amp;logo=leetcode&amp;logoColor=8b5cf6" alt="LeetCode" />
-  </a>
-  <a href="mailto:kumbharshreyas07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&amp;logo=gmail&amp;logoColor=8b5cf6" alt="Email" />
-  </a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&amp;logo=vercel&amp;logoColor=8b5cf6)](https://shreyas-kumbhar.github.io/Personal-Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&amp;logo=github&amp;logoColor=8b5cf6)](https://github.com/Shreyas-Kumbhar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&amp;logo=linkedin&amp;logoColor=8b5cf6)](https://linkedin.com/in/placeholder)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0f172a?style=flat-square&amp;logo=leetcode&amp;logoColor=8b5cf6)](https://leetcode.com/u/ShreyasKumbhar09/)
+[![Email](https://img.shields.io/badge/Email-0f172a?style=flat-square&amp;logo=gmail&amp;logoColor=8b5cf6)](mailto:kumbharshreyas07@gmail.com)
+
 </div>
 
 <br>
 
 <div align="center">
-  <b>📫 Drop a message:</b> <a href="mailto:kumbharshreyas07@gmail.com">Contact Me</a>
-  <br><br>
-  <i>"Simplicity is the soul of efficiency." — Austin Freeman</i>
+
+**📫 Drop a message:** [Contact Me](mailto:kumbharshreyas07@gmail.com)
+<br><br>
+<i>"Simplicity is the soul of efficiency." — Austin Freeman</i>
+
 </div>
 
 <br>

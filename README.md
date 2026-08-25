@@ -141,51 +141,6 @@ Beyond framework-level development, I heavily focus on fundamental computer scie
 
 <br>
 
-## Developer Profile
-
-```java
-DeveloperProfile shreyas = DeveloperProfile.builder()
-    .name("Shreyas Kumbhar")
-    .role("Java Backend Engineer")
-    .location("India")
-    .status("Open to Work")
-    .email("kumbharshreyas07@gmail.com")
-
-    .techStack(List.of(
-        "Java",
-        "Spring Boot",
-        "Spring Security",
-        "Hibernate",
-        "JPA",
-        "REST APIs",
-        "MySQL",
-        "Git"
-    ))
-
-    .currentlyLearning(List.of(
-        "Microservices",
-        "System Design",
-        "Docker",
-        "Cloud Fundamentals"
-    ))
-
-    .currentFocus(List.of(
-        "Scalable REST APIs",
-        "JWT Authentication",
-        "Backend Architecture"
-    ))
-
-    .lookingFor(List.of(
-        "Backend Engineering",
-        "Software Development",
-        "Open Source Collaboration"
-    ))
-
-    .build();
-```
-
-<br>
-
 ## Contribution Snake
 
 <div align="center">

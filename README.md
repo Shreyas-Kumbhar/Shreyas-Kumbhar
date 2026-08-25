@@ -147,7 +147,7 @@ Beyond framework-level development, I heavily focus on fundamental computer scie
   <img src="https://komarev.com/ghpvc/?username=shreyas-kumbhar&amp;label=Profile%20Views&amp;color=8B5CF6&amp;style=flat-square" alt="Views" />
   <img src="https://img.shields.io/github/followers/shreyas-kumbhar?label=Followers&amp;style=flat-square&amp;color=0f172a&amp;logoColor=8b5cf6" alt="Followers" />
   <img src="https://img.shields.io/github/stars/shreyas-kumbhar?affiliations=OWNER&amp;label=Stars&amp;style=flat-square&amp;color=0f172a&amp;logoColor=8b5cf6" alt="Stars" />
-  <img src="https://img.shields.io/github/repos/shreyas-kumbhar?label=Repositories&amp;style=flat-square&amp;color=0f172a&amp;logoColor=8b5cf6" alt="Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shreyas-kumbhar&amp;query=$.public_repos&amp;label=Repositories&amp;style=flat-square&amp;color=0f172a&amp;logo=github&amp;logoColor=8b5cf6" alt="Repos" />
 </div>
 
 <br>

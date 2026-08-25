@@ -160,7 +160,7 @@ Beyond framework-level development, I heavily focus on fundamental computer scie
 [![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=8b5cf6)](https://github.com/Shreyas-Kumbhar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=8b5cf6)](https://linkedin.com/in/placeholder)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0f172a?style=flat-square&logo=leetcode&logoColor=8b5cf6)](https://leetcode.com/u/ShreyasKumbhar09/)
-[![kumbharshreyas07@gmai.com](https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=8b5cf6)](https://shreyas-kumbhar.github.io/Personal-Portfolio/#contact)
+[![Email](https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=8b5cf6)](https://formspree.io/f/maewglop)
 
 </div>
 
@@ -168,7 +168,7 @@ Beyond framework-level development, I heavily focus on fundamental computer scie
 
 <div align="center">
 
-**📫 Drop a message:** [Contact Me](https://shreyas-kumbhar.github.io/Personal-Portfolio/#contact)
+**📫 Drop a message:** [Contact Me](https://formspree.io/f/maewglop)
 <br><br>
 <i>"Simplicity is the soul of efficiency." — Austin Freeman</i>
 

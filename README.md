@@ -141,14 +141,6 @@ Beyond framework-level development, I heavily focus on fundamental computer scie
 
 <br>
 
-## Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Shreyas-Kumbhar/Shreyas-Kumbhar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%"/>
-</div>
-
-<br>
-
 ## Profile Metrics
 
 <div align="center">
